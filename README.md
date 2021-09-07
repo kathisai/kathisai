@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kathisai&label=Profile%20views&color=0e75b6&style=flat"
                      alt="kathisai"/></p>
-<p align="left"><a href="https://twitter.com/kathisai" target="blank"><img
+<p align="left"><a href="https://twitter.com/kathisaiprathap" target="blank"><img
         src="https://img.shields.io/twitter/follow/kathisaiprathap?logo=twitter&style=for-the-badge" alt="kathisaiprathap"/></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
